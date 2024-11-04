@@ -1,0 +1,15 @@
+D:\Documentos\repos\miniSO\miniSO\bin\Debug\net8.0\miniSO.exe
+D:\Documentos\repos\miniSO\miniSO\bin\Debug\net8.0\miniSO.dll.config
+D:\Documentos\repos\miniSO\miniSO\bin\Debug\net8.0\miniSO.deps.json
+D:\Documentos\repos\miniSO\miniSO\bin\Debug\net8.0\miniSO.runtimeconfig.json
+D:\Documentos\repos\miniSO\miniSO\bin\Debug\net8.0\miniSO.dll
+D:\Documentos\repos\miniSO\miniSO\bin\Debug\net8.0\miniSO.pdb
+D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\miniSO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\miniSO.AssemblyInfoInputs.cache
+D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\miniSO.AssemblyInfo.cs
+D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\miniSO.csproj.CoreCompileInputs.cache
+D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\miniSO.dll
+D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\refint\miniSO.dll
+D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\miniSO.pdb
+D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\miniSO.genruntimeconfig.cache
+D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\ref\miniSO.dll
