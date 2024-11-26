@@ -8,7 +8,7 @@ MiniSO/
             └── net8.0/ - Diretório onde será criado/apagado/listado arquivos ao usar o shell
                 └── miniSO.exe
 ```
-
+---
 - Todas as operações do shell serão persistida no diretório local onde ele executa!
 
 - TODA a execução de comando, incluindo a criação de usuário no primeiro acesso deve ser executada mediante a criação de um novo processo de SO e seu pid deve ser impresso antes de qualquer mensagem para identificá-lo 
