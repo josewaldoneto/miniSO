@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("miniSO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+481917c4b53d61ee52489e2a6799bf657a6c1939")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11167dbfb8613d69dbc33985927f87b62d66f68a")]
 [assembly: System.Reflection.AssemblyProductAttribute("miniSO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("miniSO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

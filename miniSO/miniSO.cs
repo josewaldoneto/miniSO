@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Security.Cryptography;
 using System.IO;
-using System.Drawing;
 using System.Runtime.CompilerServices;
 using System.Diagnostics;
 
