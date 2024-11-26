@@ -13,3 +13,4 @@ D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\refint\miniSO.dll
 D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\miniSO.pdb
 D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\miniSO.genruntimeconfig.cache
 D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\ref\miniSO.dll
+D:\Documentos\repos\miniSO\miniSO\obj\Debug\net8.0\miniSO.sourcelink.json
